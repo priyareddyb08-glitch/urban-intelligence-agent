@@ -1,0 +1,67 @@
+[
+  {
+    "incident_id": "HYD-20261106223123",
+    "reported_at": "2026-11-06T22:31:23",
+    "area": "LB Nagar",
+    "road": "near metro station",
+    "incident_type": "Pothole",
+    "severity": "Medium",
+    "vehicle_id": "TSRTC-DEMO-01",
+    "description": "pothole",
+    "latitude": null,
+    "longitude": null,
+    "source": "User report"
+  },
+  {
+    "incident_id": "HYD-20261107092737",
+    "reported_at": "2026-11-07T09:27:37",
+    "area": "Kukatpally",
+    "road": "Near JNTU Metro",
+    "incident_type": "Pothole",
+    "severity": "High",
+    "vehicle_id": "TSRTC-DEMO-01",
+    "description": "Large pothole detected on the left lane",
+    "latitude": null,
+    "longitude": null,
+    "source": "User report"
+  },
+  {
+    "incident_id": "HYD-20261107100715",
+    "reported_at": "2026-11-07T10:07:15",
+    "area": "Kukatpally",
+    "road": "Near JNTU Metro",
+    "incident_type": "Waterlogging",
+    "severity": "High",
+    "vehicle_id": "TSRTC-DEMO-01",
+    "description": "Heavy waterlogging after rainfall, affecting bus movement.",
+    "latitude": null,
+    "longitude": null,
+    "source": "User report"
+  },
+  {
+    "incident_id": "HYD-20261107100907",
+    "reported_at": "2026-11-07T10:09:07",
+    "area": "Kukatpally",
+    "road": "Near JNTU Metro",
+    "incident_type": "Waterlogging",
+    "severity": "High",
+    "vehicle_id": "TSRTC-DEMO-01",
+    "description": "Severe waterlogging continues at the same location after another rainfall. Bus movement is still affected.",
+    "latitude": null,
+    "longitude": null,
+    "source": "User report"
+  },
+  {
+    "incident_id": "HYD-20261107104144",
+    "reported_at": "2026-11-07T10:41:44",
+    "area": "Kukatpally",
+    "road": "Near JNTU Metro",
+    "incident_type": "Waterlogging",
+    "severity": "High",
+    "vehicle_id": "TSRTC-DEMO-01",
+    "description": "Heavy waterlogging after rainfall, affecting bus movement.",
+    "latitude": null,
+    "longitude": null,
+    "source": "User report"
+  }
+]

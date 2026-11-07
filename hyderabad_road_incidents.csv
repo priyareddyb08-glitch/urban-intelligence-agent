@@ -1,0 +1,11 @@
+incident_id,reported_at,area,road,incident_type,severity,vehicle_id,description,latitude,longitude
+HYD-DEMO-001,2026-11-01 08:15:00,Kukatpally,Near JNTU Metro,Pothole,High,TSRTC-DEMO-01,Large pothole reported in left lane,17.4933,78.3996
+HYD-DEMO-002,2026-11-01 09:20:00,Miyapur,Miyapur X Road,Waterlogging,Medium,TSRTC-DEMO-04,Water accumulated near road shoulder after rain,17.4968,78.3570
+HYD-DEMO-003,2026-11-02 18:05:00,Ameerpet,Ameerpet Metro junction,Traffic congestion,High,TSRTC-DEMO-02,Slow-moving traffic near junction,17.4375,78.4483
+HYD-DEMO-004,2026-11-03 07:55:00,Kukatpally,Near JNTU Metro,Pothole,High,TSRTC-DEMO-03,Similar pothole condition reported by another bus,17.4933,78.3996
+HYD-DEMO-005,2026-11-03 10:10:00,Gachibowli,IIIT Junction,Traffic congestion,Medium,TSRTC-DEMO-05,Heavy traffic during morning peak,17.4454,78.3489
+HYD-DEMO-006,2026-11-04 08:40:00,Miyapur,Miyapur X Road,Waterlogging,High,TSRTC-DEMO-01,Water accumulation still present at same stretch,17.4968,78.3570
+HYD-DEMO-007,2026-11-04 17:30:00,LB Nagar,LB Nagar Ring Road,Traffic congestion,Medium,TSRTC-DEMO-06,Queue building near ring road signal,17.3457,78.5522
+HYD-DEMO-008,2026-11-05 09:05:00,Secunderabad,Paradise Circle,Road obstruction,Low,TSRTC-DEMO-02,Temporary roadside obstruction observed,17.4435,78.4860
+HYD-DEMO-009,2026-11-05 18:15:00,Ameerpet,Ameerpet Metro junction,Traffic congestion,High,TSRTC-DEMO-04,Repeated congestion during evening peak,17.4375,78.4483
+HYD-DEMO-010,2026-11-06 08:25:00,Gachibowli,IIIT Junction,Pothole,Medium,TSRTC-DEMO-03,Surface damage reported near junction,17.4454,78.3489
